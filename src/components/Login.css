@@ -1,0 +1,17 @@
+.inputbox{
+    display:block;
+    margin: 25px;
+    padding: 7px;
+    width: 300px;
+    border: 1px solid skyblue;
+
+}
+
+.loginbtn{
+    margin: 25px;
+    padding: 10px;
+    width: 150px;
+    background-color: skyblue;
+    border: 1px solid;
+    cursor: pointer;
+}

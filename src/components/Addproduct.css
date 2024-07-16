@@ -1,0 +1,26 @@
+.products{
+    margin-left: 30%;
+}
+.inputbox{
+    display:block;
+    margin: 25px;
+    padding: 7px;
+    width: 300px;
+    border: 1px solid skyblue;
+
+}
+
+.addbtn{
+    margin: 25px;
+    padding: 10px;
+    width: 150px;
+    background-color: skyblue;
+    border: 1px solid;
+    cursor: pointer;
+}
+.spa-err{
+    color: red;
+    margin-top: -20px;
+    display: block;
+    margin-left: 20px;
+}
